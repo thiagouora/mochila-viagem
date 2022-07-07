@@ -1,2 +1,2 @@
 # mochila-viagem
- Mochila para salvar itens para uma viajem
+ Mochila para salvar itens para uma viajem.
